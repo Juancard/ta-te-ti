@@ -1,0 +1,48 @@
+body{
+	text-align:center;
+}
+
+h1{
+	margin: 30px auto;
+}
+
+.panel-ta-te-ti{
+	width:300px;
+	margin:20px auto;
+}
+
+#row2{
+	border-top:solid;
+	border-bottom:solid;
+}
+
+#row1_col2,#row2_col2,#row3_col2{
+	border-left:solid;
+	border-right:solid;
+	height:70px;
+}
+
+.row p{
+	font-size:3em;
+}
+
+.clickeable{
+  width: 33.3333%;
+	height: 70px;
+}
+.X-O{	
+	display:inline-block;
+	width:150px;
+	margin: auto;
+}
+
+.X-O p{
+	font-size:1.5em;
+}
+.X-O .btn, .X-O p{
+		display: inline-block;
+}
+
+.casilleroGanador{
+	background-color:yellow;
+}
